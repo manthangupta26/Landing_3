@@ -13,7 +13,7 @@ It took about 7-8 Hours to complete it, but learnt a lot.
 ___
 Click here to go the home page which is deployed via Netlify.
 
-[Click me](https://helpful-queijadas-ecde58.netlify.app/)
+[Click me](https://magical-taiyaki-ddd45d.netlify.app)
 
 ### Screenshots
 ___
